@@ -12,7 +12,8 @@ example
 ```
 30 15 * * 0 date >> migrate.txt
 ```
-![carbon (4)](https://user-images.githubusercontent.com/55980747/139670611-04d1fc99-0bc3-4232-80db-94f230e6376f.png)
+![carbon (5)](https://user-images.githubusercontent.com/55980747/139671091-fdd08afb-17ef-4f68-90c8-1f1d6c709b13.png)
+
 
 Use CTR X to exit editor
 Enter Y to save changes.
