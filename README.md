@@ -8,6 +8,9 @@ crond interprets 'crontab files and submits jobs to cron.
 
 crontab is a table of jobs and schedule data.
 it invokes text editor to edit a crontab file.
+
+This ‘m h dom mon dow command’ is the cron job syntax
+  (minute,hour,dayof month,month,dayof week)
 example 
 ```
 30 15 * * 0 date >> migrate.txt
