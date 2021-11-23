@@ -25,4 +25,4 @@ Enter Y to save changes.
 
 # Example of scheduling jobs
 
-![Screenshot from 2021-11-23 10-54-16](https://user-images.githubusercontent.com/55980747/142987835-8263a55b-e858-46e9-9f75-2215ef12cf00.png)
+![Screenshot from 2021-11-23 10-54-16](https://user-images.githubusercontent.com/55980747/142988020-dd379c30-061c-4f19-8ee2-f30abd3eb14f.png)
