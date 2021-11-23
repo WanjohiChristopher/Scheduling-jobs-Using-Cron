@@ -25,4 +25,9 @@ Enter Y to save changes.
 
 # Example of scheduling jobs
 
+#### Checking cron service
+![Screenshot from 2021-11-23 10-59-26](https://user-images.githubusercontent.com/55980747/142988381-b8f95793-4424-4049-81e4-8564143ca4b1.png)
+
+
+
 ![Screenshot from 2021-11-23 10-54-16](https://user-images.githubusercontent.com/55980747/142988020-dd379c30-061c-4f19-8ee2-f30abd3eb14f.png)
