@@ -1,5 +1,7 @@
 # Scheduling-jobs-Using-Cron
 
+Cron jobs help us automate our routine tasks, whether they're hourly, daily, monthly, or yearly.
+
 Whats cron,crond? 
 
 cron is a service that runs jobs.
